@@ -1,0 +1,11 @@
+C:\Users\shary\Documents\Proyectos_NET\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\shary\Documents\Proyectos_NET\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\shary\Documents\Proyectos_NET\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\shary\Documents\Proyectos_NET\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\shary\Documents\Proyectos_NET\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\shary\Documents\Proyectos_NET\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\shary\Documents\Proyectos_NET\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\shary\Documents\Proyectos_NET\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\shary\Documents\Proyectos_NET\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\shary\Documents\Proyectos_NET\Calculadora\Calculadora\obj\Debug\Calculadora.CalculadoraFrm.resources
+C:\Users\shary\Documents\Proyectos_NET\Calculadora\Calculadora\obj\Debug\Calculadora.Validacion.resources
