@@ -163,7 +163,7 @@ namespace Calculadora
 
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (!(char.IsNumber(e.KeyChar)) && (e.KeyChar != (char)Keys.Back))
+            if (!(char.IsNumber(e.KeyChar)) && (e.KeyChar != (char)Keys.Back) && (e.KeyChar != (char)46) && (e.KeyChar != (char)45))
             {
                 /*MessageBox.Show("Digite numeros", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);*/
                 Validacion validacion = new Validacion();
